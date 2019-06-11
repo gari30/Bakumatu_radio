@@ -1,0 +1,2151 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+<html class=" ">
+
+<head>
+<script type="text/javascript">
+  try {
+    window.NicoGoogleTagManagerDataLayer = [];
+
+    var data = {};
+
+        data.user = (function () {
+      var user = {};
+
+                  user.login_status = 'not_login';
+      
+      return user;
+      })();
+
+    data.content = (function () {
+      var content = {};
+      content.community_id = '2944280';
+      content.ch_screen_name = 'bakumatsu';
+      return content;
+    })();
+
+    window.NicoGoogleTagManagerDataLayer.push(data);
+    } catch (e) {}
+</script><!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','NicoGoogleTagManagerDataLayer','GTM-KXT7G5G');</script>
+
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager For Google Optimize -->
+    
+            
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','NicoChGoogleTagManagerForOptimizeDataLayer','GTM-K8CLHPH');</script>
+        
+    
+        <!-- End Google Tag Manager For Google Optimize  --><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="copyright" content="(C) DWANGO Co., Ltd.">
+
+
+
+
+
+<title>動画(4):幕末志士(幕末志士) - ニコニコチャンネル:ゲーム</title>
+    <meta name="keywords" content="エンターテイメント,ゲーム実況,ユーザーチャンネル,ユーザーチャンネル開設,幕末志士,動画,無料,ニコニコチャンネル,niconico">    <meta name="description" content="幕末志士のユーザーチャンネルです">    
+        
+
+                                
+            
+        
+        
+        
+        
+        
+                
+
+        
+
+                                                        
+
+<meta property="og:title" content="動画(4):幕末志士(幕末志士) - ニコニコチャンネル:ゲーム">
+<meta property="og:site_name" content="幕末志士">
+<meta property="og:description" content="幕末志士のユーザーチャンネルです">
+<meta property="og:url" content="https://ch.nicovideo.jp/bakumatsu/video?&mode=&sort=f&order=d&type=&page=4">
+<meta property="og:image" content="https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2613458.jpg?1559911685">
+<meta property="og:type" content="website">
+<meta property="fb:app_id" content="1080595878705344">
+<meta name="twitter:card" content="summary_large_image">
+                                    <link rel="canonical" href="https://ch.nicovideo.jp/bakumatsu/video">
+
+
+    
+
+            <link rel="alternate" media="only screen and (max-width: 640px)" href="https://sp.ch.nicovideo.jp/bakumatsu/video" />
+
+    <link rel="shortcut icon" href="https://ch.nicovideo.jp/favicon.ico?111206">
+
+<link rel="stylesheet" href="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/nicoheader/resources/nicolib-CommonNotificationHeader.css?1559884139">
+<link rel="stylesheet" href="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/nicoheader/resources/siteHeader.css?1559884139">
+<link rel="stylesheet" href="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/css/legacy-less/base.css?1559884139">
+
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="幕末志士 チャンネル動画" href="/bakumatsu/video?rss=2.0">
+
+<link rel="stylesheet" href="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/css/legacy-less/channel-channel_base.css?1559884139">
+
+    <style type="text/css"><!--
+section.site_body {background-color:#000000;background-image:url(https://secure-dcdn.cdn.nimg.jp/nicochannel/material/design/2944280/bg_black.jpg);background-position:center bottom;background-repeat:no-repeat;background-attachment:fixed;color:#cccccc;}
+section.site_body a {color:#74aede;}
+section.site_body a:visited {color:#6179bf;}
+
+div#channel-main  {background-color:#ffffff;background-image:url(https://secure-dcdn.cdn.nimg.jp/nicochannel/material/design/2944280/bg02.jpg);background-position:center center;background-repeat:repeat;background-attachment:scroll;color:#333333;}
+div#channel-main a {color:#cc2f2f;}
+div#channel-main a:visited {color:#942c2c;}
+
+--></style>
+
+
+<link rel="stylesheet" href="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/css/channel/video.css?1559884139">
+
+
+
+
+
+<link rel="stylesheet" href="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/css/legacy-less/campaign-ticket_sale-ticket_sale.css?1559884139">
+
+
+
+
+<script>
+var is_login   = false;
+var is_premium = false;
+var is_channel = true;
+var nicopo_balance = false;
+var page_code  = "video_list"||null;
+var page_id    = "ch_video"||null;
+var user       = null,
+    ad_age     = null,
+    ad_gender  = null;
+var community = {
+    "type":"premium"
+};
+var channeloption = {
+    "first_month_free_flag":false};
+var show_danimestore_invitation = false</script>
+
+
+
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/nicoheader/siteHeader.js?1559884139"></script>
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/nicoheader/nicolib-CommonNotificationHeader.js?1559884139"></script>
+
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/lib/prototype.1.6.1.min.js"></script>
+<script>Element.addMethods();</script>
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/lib/jquery/jquery-1.8.3.min.js"></script>
+<script>jQuery.noConflict();</script>
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/common.js?1559884139"></script>
+
+
+
+
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/lib/swfobject.js?v1.5.1"></script>
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/nicolib.js?1559884139"></script><script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/ads.js?1559884139"></script>
+
+<script src="https://ads.nicovideo.jp/assets/js/ads-2.28.3.min.js"></script>
+
+
+
+
+
+
+
+
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/base_cp.js?1559884139"></script>
+
+<script>
+Nico.LazyImage.margin=400;
+Nico.LazyImage.attrName="data-original";
+Nico.LazyImage.initialize();
+</script>
+
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/lib/google_analytics.js"></script>
+    <script>
+        ga('create', 'UA-96548570-4', 'auto', {
+            'name': 'chfrontAll',
+            'sampleRate': 5
+        });
+        ga('require', 'GTM-K8CLHPH');         ga('chfrontAll.send', 'pageview');
+    </script>
+
+
+<script src='https://partner.googleadservices.com/gampad/google_service.js'></script>
+<script>
+GS_googleAddAdSenseService("ca-pub-1828667301391598");
+GS_googleEnableAllServices();
+</script>
+<script>
+GA_googleAddSlot("ca-pub-1828667301391598", "channel_224x224");
+GA_googleAddSlot("ca-pub-1828667301391598", "channel_468x60");
+GA_googleAddSlot("ca-pub-1828667301391598", "channel_728x90");
+GA_googleAddSlot("ca-pub-1828667301391598", "blomaga_468x60");
+GA_googleFetchAds();
+</script>
+
+</head>
+
+<body id="video_page"class="
+ ja  channel personal">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXT7G5G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Google Tag Manager For Google Optimize (noscript) -->
+    
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K8CLHPH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+        
+<!-- End Google Tag Manager For Google Optimize (noscript) -->
+
+
+        <header class="site">
+        <div id="siteHeader">
+    <div id="siteHeaderInner">
+        <ul class="siteHeaderGlovalNavigation nav_items">
+            <li><a href="https://www.nicovideo.jp/?header" class="iconNiconico"><span>niconico</span></a></li>
+            <li><a href="https://www.nicovideo.jp/video_top?header"><span>動画</span></a></li>
+            <li><a href="http://seiga.nicovideo.jp/?header"><span>静画</span></a></li>
+            <li><a href="https://live.nicovideo.jp/?header"><span>生放送</span></a></li>
+            <li><a href="https://ch.nicovideo.jp/?header"><span class="narrow">チャンネル</span></a></li>
+            <li><a href="https://ch.nicovideo.jp/portal/blomaga?header"><span class="narrow">ブロマガ</span></a></li>
+            <li><a href="https://game.nicovideo.jp/atsumaru/?header"><span>アツマール</span></a></li>
+            <li><a href="http://app.nicovideo.jp/?header"><span>アプリ</span></a></li>
+            <li class="siteHeaderOther" id="siteHeaderLeftMenu">
+                <a href="javascript:void(0);"><span>その他▼</span></a>
+                <ul id="siteHeaderLeftMenuContainer" class="siteHeaderDropdown" style="display:none;">
+                    <li><a href="https://dic.nicovideo.jp/?header">大百科</a></li>
+                    <li><a href="https://nicoad.nicovideo.jp/?header">ニコニ広告</a></li>
+                    <li><a href="http://commons.nicovideo.jp/?header">コモンズ</a></li>
+                    <li><a href="https://3d.nicovideo.jp/?header">ニコニ立体</a></li>
+                    <li><a href="http://jk.nicovideo.jp/?header">実況</a></li>
+                    <li><a href="https://com.nicovideo.jp/?header">コミュ二ティ</a></li>
+                    <li><a href="https://news.nicovideo.jp/?header">ニュース</a></li>
+                    <li><a href="https://q.nicovideo.jp/?header">ニコニコQ</a></li>
+                    <li class="menuServiceList"><a href="http://site.nicovideo.jp/service_list?header">もっと見る</a></li>
+                </ul>
+            </li>
+        </ul>
+        <ul class="siteHeaderMenuList">
+                            <li id="siteHeaderNotification" class="siteHeaderLogin">
+                    <a href="https://account.nicovideo.jp/login?next_url=%2Fbakumatsu%2Fvideo%3F%26mode%3D%26sort%3Df%26order%3Dd%26type%3D%26page%3D4&site=channel&time=1560276533&hash_key=ecd28da8" class="nav_item">
+                    <span class="narrow">ログイン</span></a>
+                </li>
+                <li class="siteHeaderHorizon">
+                    <a href="https://account.nicovideo.jp/register?sec=common_header&mode=landing"
+                    class="nav_item siteHeaderRegister" style="color:#F1B700;"
+                    data-site="nicocha">
+                    <span><span class="narrow">ニコニコ</span>会員登録</span></a>
+                </li>
+            
+                                                <li class="siteHeaderChSignup newChannel">
+                        <a href="/start" class="nav_item">
+                            <span><span class="narrow">チャンネルを</span>開設</span>
+                        </a>
+                    </li>
+                            
+            <!-- end notification header -->
+
+            <li class="purchased">
+                <a href="/my/purchased" class="nav_item">
+                    <span>購入<span class="narrow">したもの</span></span>
+                </a>
+            </li>
+
+                            <li>
+                    <a href="/ranking" class="nav_item"
+                    title="チャンネル動画ランキング">
+                        <span class="narrow">ランキング</span>
+                    </a>
+                </li>
+            
+            <li class="siteHeaderOther" id="siteHeaderRightMenu">
+
+                <a class="nav_item" href="javascript:void(0);"
+                ><span class="narrow">メニュー▼</span></a>
+
+                <ul id="siteHeaderRightMenuContainer"
+                class="siteHeaderDropdown largemenu nav_items
+                not_logged_in"
+                style="display:none;">
+
+                    <li class="need_login">
+                        <a class="container" href="/my/purchased">
+                            <dl>
+                                <dt class="title">購入したもの</dt>
+                                <dd>
+                                    <p>
+                                        あなたが購入した<br>有料コンテンツ一覧
+                                    </p>
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+                    <li class="need_login">
+                        <a class="container" href="/my/following">
+                            <dl>
+                                <dt class="title">登録したチャンネル</dt>
+                                <dd>
+                                    <p>
+                                        フォロー/入会した<br>チャンネルの一覧
+                                    </p>
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+
+                                        <li class="need_login">
+                        <a class="container" href="/my/mail/subscribing">
+                            <dl>
+                                <dt class="title">メール購読の設定</dt>
+                                <dd>
+                                    <p>
+                                        メール購読の解除と再開
+                                    </p>
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+                    <li class="need_login">
+                        <a class="container" href="https://www.nicovideo.jp/my/top">
+                            <dl>
+                                <dt class="title">マイページ</dt>
+                                <dd>
+                                    <p>
+                                        マイリスト、ニコレポ、<br>投稿した動画
+                                    </p>
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+
+                    <li class="need_login">
+                        <a class="container" href="https://account.nicovideo.jp/my/account">
+                            <dl>
+                                <dt class="title">アカウント設定</dt>
+                                <dd>
+                                    <p>
+                                        ニコニコアカウントの管理
+                                    </p>
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+                                        <li>
+                        <a class="container" href="https://account.nicovideo.jp/login?next_url=%2Fbakumatsu%2Fvideo%3F%26mode%3D%26sort%3Df%26order%3Dd%26type%3D%26page%3D4&site=channel&time=1560276533&hash_key=ecd28da8">
+                            <dl>
+                                <dt class="title">ログイン</dt>
+                                <dd>
+                                    <p>
+                                        niconicoにログイン
+                                    </p>
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+                                        <li id="siteHeaderRightMenuUnfix"
+                        ><a href="javascript:void(0);">
+                        ヘッダー:<span class="siteHeaderScroll">追従</span></a
+                    ></li>
+                    <li id="siteHeaderRightMenuFix">
+                        <a href="javascript:void(0);">
+                        ヘッダー:<span class="siteHeaderFix">固定</span></a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+
+    </div>
+</div>
+
+
+
+<script>
+jQuery(document).ready(function(){
+    //ユーザー名の最大幅を計算
+    var adjustNicknameWidth = function(){
+        if(is_login) {
+            //お知らせ残件数左offset
+            var notify_left     = jQuery("#siteHeaderNotificationContainer").offset().left - jQuery("#siteHeaderInner").offset().left;
+            //左側nicoファミリーサイト群の幅
+            var nico_navi_width = jQuery(".siteHeaderGlovalNavigation").width();
+            //ユーザーサムネとmarginの幅
+            var userthumb_width = 34;
+            //"さん"文字列の幅
+            var san_width       = 30;
+            //少し余裕を持たせる
+            var side_margin     = 15;
+            //nicknameが使える最大幅を計算
+            var nick_width_px = Math.floor( notify_left - nico_navi_width - userthumb_width - san_width - side_margin*2 )+"px";
+            //css設定
+            jQuery("#siteHeaderUserNickNameContainer").css("max-width",nick_width_px);
+            return nick_width_px;
+        }else{
+            return false;
+        }
+    }
+    setTimeout(adjustNicknameWidth,0);//実行タイミングをズラす
+    window.adjustNicknameWidth = adjustNicknameWidth;
+});
+</script>
+
+
+                            <div id="head_cp">
+    <div class="head_inner">
+
+    <nav class="head_breadcrumb" id="head_cp_breadcrumb">
+        <h1 class="channel_name"><a href="/bakumatsu">幕末志士</a></h1>
+        <div class="site_logo"><a href="https://ch.nicovideo.jp/"><img src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/img/base/niconico_channel_small.png" alt="ニコニコチャンネル"></a></div>
+
+                                <div class="channel_category">
+                <a href="/portal/game">
+                    ゲーム
+                </a>
+                <menu class="switch_category">
+                    <span class="other">▼</span>
+                    <ul id="other_categories_list" style="display:none;">
+                        <li ><a href="/portal/event">イベント</a>
+<li ><a href="/portal/blomaga">ブロマガ</a>
+<li ><a href="/portal/anime">アニメ</a>
+<li ><a href="/portal/movie">映画・ドラマ</a>
+<li ><a href="/portal/media">社会・言論</a>
+<li ><a href="/portal/tokusatsu">特撮</a>
+<li ><a href="/portal/music">音楽</a>
+<li ><a href="/portal/entertainment">エンタメ</a>
+<li ><a href="/portal/sports">スポーツ</a>
+<li ><a href="/portal/showbiz">芸能</a>
+<li ><a href="/portal/life">生活</a>
+<li ><a href="/portal/politics">政治</a>
+<li class="selected"><a href="/portal/game">ゲーム</a>
+<li ><a href="/portal/variety">バラエティ</a>
+<li ><a href="/portal/gravure">グラビア</a>                    </ul>
+                </menu>
+            </div>
+            <script>Ch.categoryDropdown.init();</script>
+        
+    </nav>
+
+
+        <menu id="head_sns_share" class="sns_share">
+        <!--SNS共有-->
+        
+        
+                                        <div class="sns_button twitter">
+            <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-url="https://ch.nicovideo.jp/bakumatsu" data-text="幕末志士 #nicoch" data-count="none" data-lang="ja">Tweet</a>
+        </div>
+
+        <div class="sns_button facebook">
+            <iframe src="https://www.facebook.com/plugins/like.php?href=https://ch.nicovideo.jp/bakumatsu&locale=&app_id=227837487254498&amp;send=false&amp;layout=button&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" allowTransparency="true"
+            style="width:110px; height:21px"></iframe>
+                    </div>
+
+        <!--その他のSNS: hatebu gp+-->
+        <div class="sns_other">
+            <button class="btn_share_toggle"><span class="down">▼</span><span class="up">▲</span></button>
+            <div id="head_sns_share_more">
+                <ul>
+                    <li class="hatebu"><a href="http://b.hatena.ne.jp/entry/s/ch.nicovideo.jp/bakumatsu/video?&amp;mode=&amp;sort=f&amp;order=d&amp;type=&amp;page=4" class="hatena-bookmark-button" data-hatena-bookmark-title="幕末志士 - ニコニコチャンネル" data-hatena-bookmark-layout="basic" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20"></a>
+                </ul>
+            </div>
+        </div>
+        
+        <script>
+        jQuery(".btn_share_toggle").on("click",function(){
+            var sns_other = jQuery(".sns_other");
+            var sns_other_panel = jQuery("#head_sns_share_more");
+            var target_height = sns_other_panel.find("ul").outerHeight();
+            var expanded_class = "expanded";
+            if(sns_other.hasClass(expanded_class)){
+                //close it
+                sns_other_panel.animate({"height":"0"},150);
+                sns_other.removeClass(expanded_class);
+            }else{
+                //open it
+                sns_other_panel.animate({"height":target_height},150);
+                sns_other.addClass(expanded_class);
+            }
+        });
+        </script>
+        
+    </menu>
+    
+    </div>
+    </div>
+    <div id="head_cp_menu">
+    <div class="head_inner">
+                                <nav class="current channel" id="cp_menu">
+                <ul>
+                                                                    
+                                    
+                        <li class="">
+                            <a href="/bakumatsu">トップ</a>
+
+                                                                                                                                            <li class="selected">
+                                <a href="/bakumatsu/video">動画</a>
+                        
+                        
+                                                                                <li class="">
+                                <a href="/bakumatsu/live">生放送</a>
+                        
+                                                                                <li class="">
+                                <a href="/bakumatsu/blomaga">ブロマガ</a>
+                        
+                        
+                                                                                <li class="">
+                                <a href="/bakumatsu/event">イベント</a>
+                        
+                                                    </ul>
+            </nav>
+                    
+        <div class="join_leave">
+                
+    
+    
+    <div class="cell">
+
+                                <a class="join need_login"
+            href="https://account.nicovideo.jp/login?site=channel&next_url=%2Fbakumatsu%2Fvideo%3Fmode%3D%26sort%3Df%26order%3Dd%26type%3D%26page%3D4%26admission_type%3Dchannel%26bylaw_type%3Dmodal&time=1560276533&hash_key=99c0cd47"
+            
+            onclick="ga('chfrontAll.send','event','ヘッダー','チャンネルに入会',location.pathname);
+            NicoGoogleTagManagerDataLayer.push({'event':'nicoch_click_header-join-button'})"
+            >
+                チャンネルに入会
+            </a>
+            </div>
+                                <div class="cell">
+            <a href="https://account.nicovideo.jp/login?next_url=%2Fbakumatsu%2Fvideo%3F%26mode%3D%26sort%3Df%26order%3Dd%26type%3D%26page%3D4&site=channel&time=1560276533&hash_key=ecd28da8"
+            class="btn_follow bookmark"
+            onmouseover="jQuery('#please_login').show(); return false;"
+            onmouseout="jQuery('#please_login').hide(); return false;"
+            
+            onclick="ga('chfrontAll.send','event','ヘッダー','フォロー',location.pathname);
+            NicoGoogleTagManagerDataLayer.push({'event':'nicoch_click_header-follow-button'})"
+            >
+            <span class="labels">
+                <span class="off">フォロー</span>
+            </span>
+            </a>
+        </div>
+    
+                            <div class="cell ">
+    <a class="btn_app"
+    href="http://ex.ch.nicovideo.jp/channel/bakumatsu/app?page=share&amp;from=pc_cp_header" target="_blank"
+    
+    onclick="ga('chfrontAll.send','event','ヘッダー','アプリ',location.pathname);
+    NicoGoogleTagManagerDataLayer.push({'event':'nicoch_click_header-app-button'})"
+    >
+        アプリ
+    </a>
+</div>                    </div>
+
+    </div>
+    </div>    
+    
+    
+    
+
+                    
+    
+    
+        
+        
+    <script>
+
+    //共有ボタンに展開イベントを割り振り
+    var panel	= jQuery("#shareMenuBar"),
+            trigger = jQuery("#shareMenuTrigger");
+    jQuery("#shareMenuTrigger").click(function(event){
+        if(panel.is(':visible')){
+            toggleShareMenu(false);
+        }else{
+            toggleShareMenu(true);
+        }
+        return false;
+    });
+
+    //ヘッダーの初月無料プランリンクclick後に、入会プラン周りを目立たせる
+    jQuery("a#first_month_free_flag").click(function(){
+        var joinMenu = jQuery("#cp_joinmenu");
+        var animateDuration = 500;
+        var isScroll = Ch.smoothScroll("#cp_joinmenu", {"duration": animateDuration});
+        joinMenu
+            .wrapInner('<div class="cp_joinmenu_cnt"></div>')
+            .append('<span class="bg_cp_joinmenu"></span>')
+            .css({"position":"relative"});
+        var cnt = joinMenu.find(".cp_joinmenu_cnt");
+        var bg = joinMenu.find(".bg_cp_joinmenu");
+        cnt.css({"position":"relative", "z-index":"1"});
+        bg.css({
+            "position":"absolute",
+            "top":0,
+            "left":0,
+            "z-index":0,
+            "width": joinMenu.innerWidth(),
+            "height": joinMenu.innerHeight(),
+            "background": "#fff",
+            "opacity":"0"
+        });
+        setTimeout(function(){
+            bg.animate({"opacity":"1"},100).animate({"opacity":"0"},1000,function(){this.remove()})
+        }, animateDuration);
+        if(isScroll) {return false;}
+    });
+
+    </script>
+    
+
+
+
+
+
+            </header>
+
+    <section class="site_body">
+        <article class="content white">
+            <section class="content_body">
+
+
+            <!---->
+
+                
+                
+        
+        <section class="contents_list video tile zoom">
+
+                        <header>
+
+    <div class="shoulder">
+
+        <menu class="scopebar change_style">
+            <ul>
+                <li class="icon tile selected">
+                    <span class="scope" data-mode="tile"><span></span></span>
+                <li class="icon detail ">
+                    <span class="scope" data-mode="detail"><span></span></span>
+            </ul>
+            
+            <script>
+            var contents_list = jQuery("section.contents_list");
+            var scopebar = contents_list.find(".scopebar.change_style");
+
+            scopebar.on("click",".scope",function(){
+                var caller=jQuery(this);
+                var mode=caller.attr("data-mode");
+                var li=caller.closest("li");
+                var li_selected=li.closest("ul").find("li.selected");
+
+                li_selected.removeClass("selected");
+                li.addClass("selected");
+
+                cookie("li_video",mode,{path:"/"});
+
+                contents_list
+                    .removeClass("tile").removeClass("detail")
+                    .addClass(mode);
+
+                Ch.LazyImage.forceLoad("ul.items");
+            });
+            </script>
+            
+        </menu>
+
+                <div class="searchbox">
+            <form method="get">
+                <input type="text" class="search" value="">
+                <input type="hidden" name="channel_id" value="ch2613458">
+                <input type="hidden" name="mode" value="s">
+                <input type="hidden" name="sort" value="f">
+                <input type="hidden" name="order" value="d">
+                <input type="hidden" name="type" value="video">
+                <button type="submit" title="検索"></button>
+            </form>
+            
+            <script type="text/javascript">
+            jQuery(".searchbox form").on("submit",function(event){
+                var s 			= jQuery.trim(jQuery('input.search').val());
+                var s_replaced 	= s.replace(/^\s+|\s+$/g, '').replace(/%20/g, '+');
+                var s_encoded 	= encodeURIComponent(s_replaced);
+                var form 		= jQuery(this);
+                var channel_id 	= jQuery("input[name=channel_id]");
+                if(s!=""){
+                    var url = ['/search/',s_encoded].join("");
+                    channel_id.attr("disabled",false);
+                }else{
+                    var url = ['/',channel_id.val(),'/video/'].join("");
+                    channel_id.attr("disabled",true);
+                }
+                form.attr("action",url);
+                return true;
+            });
+            </script>
+            
+        </div>
+        
+
+    </div>
+
+    
+    <span class="count">
+            <var>197</var>件
+    </span>
+
+    <menu class="sort">
+                <select data-href="/bakumatsu/video?">
+            <option value="sort=f&amp;order=d" >投稿が新しい順</option>
+            <option value="sort=v&amp;order=d" >再生が多い順</option>
+            <option value="sort=r&amp;order=d" >コメントが多い順</option>
+            <option value="sort=m&amp;order=d" >マイリスト登録が多い順</option>
+            <option value="sort=n&amp;order=d" >コメントが新しい順</option>
+                        <option value="sort=l&amp;order=d" >再生時間が長い順</option>
+
+            <option disabled></option>
+
+            <option value="sort=f&amp;order=a" >投稿が古い順</option>
+                        <option value="sort=v&amp;order=a" >再生が少ない順</option>
+            <option value="sort=n&amp;order=a" >コメントが古い順</option>
+            <option value="sort=r&amp;order=a" >コメントが少ない順</option>
+            <option value="sort=m&amp;order=a" >マイリスト登録が少ない順</option>
+            <option value="sort=l&amp;order=a" >再生時間が短い順</option>
+
+        </select>
+        
+            <script type="text/javascript">
+            jQuery("menu.sort select").on("change",function(event){
+                var t = jQuery(this);
+                var jump_to = t.attr("data-href");
+                var val = t.val();
+                jump_to = jump_to+val;
+                location.href=jump_to;
+                return true;
+            });
+            </script>
+            
+    </menu>
+
+    
+</header>
+                                        <ul class="items">
+                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1526367612" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=33212584" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="ざわ… ムスコが小さいからこ ダサい奴がチェック着 逆に運よすぎん? わりと投稿したよな MSSSSPってgoogleみた ここの「西郷さんもう ">ざわ… ムスコが小さいからこ ダサい奴がチェック着 逆に運よすぎん? わりと投稿したよな MSSSSPってgoogleみた ここの「西郷さんもう </span><span class="badge br length" title="98:30">98:30</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1526367612" title="[会員専用]幕末生　2018謹賀新年(PUBGスペシャル)"
+            >[会員専用]幕末生　2018謹賀新年(PUBGスペシャル)</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1526367612">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>207,730</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>4,653</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1526367612" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>990</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            幕末生　2018年1月1日(月)放送分1,雑談：#0:002,今年の抱負：#1:443,おみくじ勝負：#9:494,「PUBG」実況プレイ：#16:24watch/1525839786　←　イモカスSP　第1...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/05/15 18:00'>
+                2018-05-15 18:00
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1525839786" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=33181780" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="ばりぼー? この頃の坂本じゃ無理 wwwwwwwwww モテ本竜馬 あぶないなぁ あぶないなぁ 西郷妹説草 急にも編!ありがとう! リビドー感じてそう せやなあああああああ 仲間を殺る気はあるけ 名前が変わっても兎に ">ばりぼー? この頃の坂本じゃ無理 wwwwwwwwww モテ本竜馬 あぶないなぁ あぶないなぁ 西郷妹説草 急にも編!ありがとう! リビドー感じてそう せやなあああああああ 仲間を殺る気はあるけ 名前が変わっても兎に </span><span class="badge br length" title="86:28">86:28</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1525839786" title="[会員専用]幕末生　特別編（イモカス拳）"
+            >[会員専用]幕末生　特別編（イモカス拳）</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1525839786">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>99,543</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>1,891</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1525839786" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>465</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            こちらはノーカットです。幕末生　2017年12月31日(日)放送分watch/1524743379　←　第14回　謹賀新年　→ watch/1526367612※イモカス拳(公開)　→　so33150334幕...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/05/09 18:00'>
+                2018-05-09 18:00
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1525342180" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=33150334" class="lazyimage"><span class="badge last_res" title="てか、かぜっぴきwww ここモンスターズイン セックス いきすぎいぐいぐいぐ いい落ち ああああああああ あと一分 落下 武器津よ グライオン 悲しい事実 涙出たw chananiewel がログアウトしました ... ">てか、かぜっぴきwww ここモンスターズイン セックス いきすぎいぐいぐいぐ いい落ち ああああああああ あと一分 落下 武器津よ グライオン 悲しい事実 涙出たw chananiewel がログアウトしました ... </span><span class="badge br length" title="44:48">44:48</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1525342180" title="【幕末志士】イモカス拳【PUBG実況】"
+            >【幕末志士】イモカス拳【PUBG実況】</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1525342180">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>902,363</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>10,321</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1525342180" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>3,058</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            さらわれた妹を救うため、再び男は絶望的な条件で戦場に赴いた。※2017年大晦日に配信したものに編集を加えたものです。幕末志士のPUBG　→　 sm32863142パニカ...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/05/03 19:19'>
+                2018-05-03 19:19
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1524743379" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=33112256" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="なんだろう…この見せ ぺちぺちってきこえた ほっそい… なんでも知りたがるな なんでも知りたいんで 高いけど、効くんだよ N君大好きよwwwww 坂乾燥肌? 平謝りであってるよ メンズだからとかじゃ ">なんだろう…この見せ ぺちぺちってきこえた ほっそい… なんでも知りたがるな なんでも知りたいんで 高いけど、効くんだよ N君大好きよwwwww 坂乾燥肌? 平謝りであってるよ メンズだからとかじゃ </span><span class="badge br length" title="48:07">48:07</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1524743379" title="[会員専用]幕末生　第14回（2017ゆく年くる年）"
+            >[会員専用]幕末生　第14回（2017ゆく年くる年）</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1524743379">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>153,608</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>2,594</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1524743379" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>778</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            LINE画面のアーカイブ掲載許可はさすがに貰えませんでした。動画の尺が余ったのでオデッセイSP①の反省会を収録しています。幕末生　2017年12月31日(日)放送分...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/04/26 20:46'>
+                2018-04-26 20:46
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1524216051" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=33080618" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="めずらしい がんばれ 茶番キャンセル 仕返しか ハートの中にうんこ繋 陰湿wwwwwww 鋭たんやん うま ピエロかわいい ストックホルム草 www 頭のおかしい子ゴリラ ショタホモやんけ wwww 嫌な予感が、、w こ... ">めずらしい がんばれ 茶番キャンセル 仕返しか ハートの中にうんこ繋 陰湿wwwwwww 鋭たんやん うま ピエロかわいい ストックホルム草 www 頭のおかしい子ゴリラ ショタホモやんけ wwww 嫌な予感が、、w こ... </span><span class="badge br length" title="65:41">65:41</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1524216051" title="[会員専用]幕末生　2017クリスマス西郷監禁SP"
+            >[会員専用]幕末生　2017クリスマス西郷監禁SP</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1524216051">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>224,443</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>5,565</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1524216051" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>1,300</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            なんだこのサムネ。幕末生　2017年12月24日(日)放送分1,クリスマス西郷スペシャル：#0:002,西郷の「ししりうむ」実況プレイ：#1:293,坂本が戻ってくる：#9:00...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/04/20 18:19'>
+                2018-04-20 18:19
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1524047098" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=33071252" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="絶対声バレすんだろww 声でけえwww さいごうさいっこうだ ほんと好きだわwwww wwwwwwwwwww ほんと西郷の発想好き わかんなwww ここから ほんへかあ? おっさんだもんな ワードセンスw は? まじになって!? 少年... ">絶対声バレすんだろww 声でけえwww さいごうさいっこうだ ほんと好きだわwwww wwwwwwwwwww ほんと西郷の発想好き わかんなwww ここから ほんへかあ? おっさんだもんな ワードセンスw は? まじになって!? 少年... </span><span class="badge br length" title="59:42">59:42</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1524047098" title="[会員専用]幕末生　第13回（ミュンヘン市潜入）"
+            >[会員専用]幕末生　第13回（ミュンヘン市潜入）</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1524047098">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>178,740</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>3,396</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1524047098" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>713</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            幕末生　2017年12月23日(土)放送分1,???：#0:002,雑談：#0:213,年末年始の生放送予定：#4:254,クリスマスプレゼントアンケート＆応募受付中：#7:355,「ししり...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/04/18 19:20'>
+                2018-04-18 19:20
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1522890306" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=33003125" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="草 重い 天才や… 実際西郷さん以外の友 さすゴリ やり込んだ セーフ コンパス知ってるの嬉 ✿*❀٭✿*❀٭✿*❀٭✿*❀٭✿*❀٭ ">草 重い 天才や… 実際西郷さん以外の友 さすゴリ やり込んだ セーフ コンパス知ってるの嬉 ✿*❀٭✿*❀٭✿*❀٭✿*❀٭✿*❀٭ </span><span class="badge br length" title="77:22">77:22</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1522890306" title="[会員専用]幕末生　第12回（ししりうむ実況プレイ①）"
+            >[会員専用]幕末生　第12回（ししりうむ実況プレイ①）</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1522890306">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>195,987</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>3,540</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1522890306" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>1,425</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            幕末生　2017年12月16日(土)放送分1,雑談：#0:002,生放送の予定：#0:373,クリスマスプレゼントアンケート：#7:304,PUBGと新作実況動画の収録をやっていた：#8...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/04/05 18:00'>
+                2018-04-05 18:00
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1522665780" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=32990050" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="二人いてこそだよなー クオリティはあれなん さすゴリ 眺めるだけw ワクワクしてる場合じ ごろりwwwwwww bgmいいなぁ 終わるw 多弁さんなのではw じぶんたちでつかって その発想はあった w... ">二人いてこそだよなー クオリティはあれなん さすゴリ 眺めるだけw ワクワクしてる場合じ ごろりwwwwwww bgmいいなぁ 終わるw 多弁さんなのではw じぶんたちでつかって その発想はあった w... </span><span class="badge br length" title="65:50">65:50</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1522665780" title="[会員専用]幕末生　第10回（「西郷を救え」実況プレイ）"
+            >[会員専用]幕末生　第10回（「西郷を救え」実況プレイ）</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1522665780">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>219,186</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>3,603</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1522665780" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>910</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            TS録画送っていただき有難うございました。幕末生　2017年12月2日(土)放送分1,12月の予定：#0:002,12月グッズについて：#3:353幕末オンライン2　βテスト終了...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/04/02 19:39'>
+                2018-04-02 19:39
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1522325692" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=32965311" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="淫さんロリコン確定 大学ではロリコンと呼 軍ではトランクスと呼 紅〜クレナイ〜 ♡♡ 賃 陳 珍 これもこうとうんこち 練習してできるように ここ普通にうまいよな ">淫さんロリコン確定 大学ではロリコンと呼 軍ではトランクスと呼 紅〜クレナイ〜 ♡♡ 賃 陳 珍 これもこうとうんこち 練習してできるように ここ普通にうまいよな </span><span class="badge br length" title="69:41">69:41</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1522325692" title="[会員専用]幕末生　第11回（壺男&amp;改革は指さす方へ）"
+            >[会員専用]幕末生　第11回（壺男&amp;改革は指さす方へ）</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1522325692">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>146,907</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>2,468</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1522325692" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>852</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            幕末生　2017年12月11日(月)放送分1,雑談：#0:002,長時間生告知：#5:183,1月1日に謹賀新年生やります：#8:504,Steamゲーム「Getting Over It」実況プレイ：#1...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/03/29 21:11'>
+                2018-03-29 21:11
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1522130507" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=32953359" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="いい加減悟れwwww 坂ちゃんの身長の平均 西郷の性知識偏りある まぁ北大だし仕事でき 坂本の人生まじで西郷 なおSさん さっきから怒涛のなお なおゲストのSさん そして幕末志士Ω爆誕 蘭たん... ">いい加減悟れwwww 坂ちゃんの身長の平均 西郷の性知識偏りある まぁ北大だし仕事でき 坂本の人生まじで西郷 なおSさん さっきから怒涛のなお なおゲストのSさん そして幕末志士Ω爆誕 蘭たん... </span><span class="badge br length" title="53:32">53:32</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1522130507" title="[会員専用]幕末生　第3回（ホラー生反省会）"
+            >[会員専用]幕末生　第3回（ホラー生反省会）</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1522130507">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>126,918</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>1,836</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1522130507" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>531</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            幕末生　2017年10月14日(土)放送分1,反省会：#0:002,雑談＆コメント返信コーナー：#2:503,「PUBG」実況プレイ：#49:46watch/1521542743　←　ホラー生　第4回...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/03/27 18:23'>
+                2018-03-27 18:23
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1521542743" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=32916321" class="lazyimage"><span class="badge last_res" title="スッ wwwwwwwwwwwwwwwwwwww アレマァァァァァ ファンレタ～ まる見えww これはモテ 天然すぎんか?ww 坂ちゃん好き 西郷召喚しろ かわいい ねーよww にやつく自分の顔が反 ぽるたぁがいすとだぁ ここくそわろ てのま... ">スッ wwwwwwwwwwwwwwwwwwww アレマァァァァァ ファンレタ～ まる見えww これはモテ 天然すぎんか?ww 坂ちゃん好き 西郷召喚しろ かわいい ねーよww にやつく自分の顔が反 ぽるたぁがいすとだぁ ここくそわろ てのま... </span><span class="badge br length" title="45:54">45:54</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1521542743" title="幕末志士生SP　HOME SWEET HOME実況プレイ"
+            >幕末志士生SP　HOME SWEET HOME実況プレイ</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1521542743">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>991,384</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>14,488</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1521542743" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>3,770</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            怖くないのはサムネだけ。※そのうち会員限定動画になります。前(マリカ生)　→　sm32904853幕末ラジオマイリスト：mylist/55616469更新情報(Twitter)　→　http...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/03/20 19:44'>
+                2018-03-20 19:44
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1519995824" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=32821175" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="すしざんまい ビュッフェスタイルw 回しただけでは? カメラの腕がいいよね ⇦わかる西郷さん太っ 西郷さん太ってると思 文字漏れてる草 これは経費でいいでし うにパンほんと草 食べるペースはわかる 獣臭みたいな 豚骨は... ">すしざんまい ビュッフェスタイルw 回しただけでは? カメラの腕がいいよね ⇦わかる西郷さん太っ 西郷さん太ってると思 文字漏れてる草 これは経費でいいでし うにパンほんと草 食べるペースはわかる 獣臭みたいな 豚骨は... </span><span class="badge br length" title="59:34">59:34</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1519995824" title="[会員専用]幕末生　第9回（マジックディナーショーSP）"
+            >[会員専用]幕末生　第9回（マジックディナーショーSP）</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1519995824">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>224,270</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>3,613</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1519995824" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>1,289</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            幕末生　2017年11月28日(火)放送分1,マジシャン西郷のマジックディナーショー：#0:002,幕末オンライン2　協力者募集締め切りました：#50:283,11月＆12月グッ...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/03/02 22:00'>
+                2018-03-02 22:00
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1518937881" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=32757833" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="日本一周したが、最強 ホットナイチモツモッ 好きでやってることを SEじわる やさしい子だなぁwwww なんでポッケからおに 、 おーいさかちゃんみて ">日本一周したが、最強 ホットナイチモツモッ 好きでやってることを SEじわる やさしい子だなぁwwww なんでポッケからおに 、 おーいさかちゃんみて </span><span class="badge br length" title="91:27">91:27</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1518937881" title="[会員専用]幕末生　第8回（UN Epic実況プレイ）"
+            >[会員専用]幕末生　第8回（UN Epic実況プレイ）</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1518937881">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>184,151</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>2,488</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1518937881" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>734</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            幕末生　2017年11月18日(土)放送分1,雑談：#0:002,11月グッズについて：#6:063,没DVDに使用する西郷イラストの色塗りが終わった：#6:334,幕末オンライン2　協...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/02/18 16:09'>
+                2018-02-18 16:09
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1518515505" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=32732667" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="サッポロディビジョン こういう人いそうww 疲れてる? おいおいおいおいwwww モニタリング ダドリー・ダーズリー あっ///挿入りました 私立で京都だった... キンブリー 昔の家庭用カラオケ機 ししりうむのやつ フランダ... ">サッポロディビジョン こういう人いそうww 疲れてる? おいおいおいおいwwww モニタリング ダドリー・ダーズリー あっ///挿入りました 私立で京都だった... キンブリー 昔の家庭用カラオケ機 ししりうむのやつ フランダ... </span><span class="badge br length" title="56:31">56:31</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1518515505" title="[会員専用]幕末生　第7回（TOUBAKU MANIA実況プレイ）"
+            >[会員専用]幕末生　第7回（TOUBAKU MANIA実況プレイ）</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1518515505">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>189,100</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>2,549</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1518515505" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>905</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            消されても再アップしません。幕末生　2017年11月11日(土)放送分1,???：#0:002,雑談：#0:213,11月グッズについて：#1:414,幕末オンライン2　協力者募集：#4:0...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/02/13 18:49'>
+                2018-02-13 18:49
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1518175744" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=32711518" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="なお うせやろww えっちゃない 天然ww 昔のは声低くエフェク タイトルすぐ変わるの wwwwwwwwwwwwwwwwww えぇwwwwwwww 30超えてもこれやって 入れ替わり... ">なお うせやろww えっちゃない 天然ww 昔のは声低くエフェク タイトルすぐ変わるの wwwwwwwwwwwwwwwwww えぇwwwwwwww 30超えてもこれやって 入れ替わり... </span><span class="badge br length" title="51:32">51:32</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1518175744" title="[会員専用]幕末生　第6回（マリカ&amp;インファマス反省会）"
+            >[会員専用]幕末生　第6回（マリカ&amp;インファマス反省会）</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1518175744">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>163,051</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>1,963</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1518175744" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>660</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            同時収録　2010年収録ラジオドラマ「殺法剣~三日月~」幕末生　2017年11月5日(日)放送分1,ラジオドラマ「殺法剣~三日月~」：#0:002,第6回　本編：#13:053,7月...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/02/09 20:26'>
+                2018-02-09 20:26
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1517654084" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=32682440" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="わかるwww この曲でこの2人の笑 細川たかしガチ勢いて wwwwww wwwwwwww 作る人は雇えばいいよ お店のオーナーになろ 隣見たら? きゃあ? おかしいとすぐ、おな ちまころちまころして ">わかるwww この曲でこの2人の笑 細川たかしガチ勢いて wwwwww wwwwwwww 作る人は雇えばいいよ お店のオーナーになろ 隣見たら? きゃあ? おかしいとすぐ、おな ちまころちまころして </span><span class="badge br length" title="66:31">66:31</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1517654084" title="[会員専用]幕末生　第5回（幕オン2実況&amp;西郷の結婚相談所）"
+            >[会員専用]幕末生　第5回（幕オン2実況&amp;西郷の結婚相談所）</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1517654084">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>195,525</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>2,750</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1517654084" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>841</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            第3回(ホラー生SP回)の編集が怖かったので次に投稿します。幕末生　2017年10月29日(日)放送分1,???：#0:002,7～9月グッズの配送について：#1:593,オデッセイ...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/02/03 19:32'>
+                2018-02-03 19:32
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1516968355" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=32643213" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="教師が無能すぎて wwwwwww お金払ってるならいい 良かったね2人でやっ こういうところは西郷 全肯定の坂 ここすこ 聞かなきゃ知らないよ それもダメや 正直ワロタ 欠落は内容が痛いから ">教師が無能すぎて wwwwwww お金払ってるならいい 良かったね2人でやっ こういうところは西郷 全肯定の坂 ここすこ 聞かなきゃ知らないよ それもダメや 正直ワロタ 欠落は内容が痛いから </span><span class="badge br length" title="63:18">63:18</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1516968355" title="[会員専用]幕末生　第4回（Shishide Runner実況プレイ）"
+            >[会員専用]幕末生　第4回（Shishide Runner実況プレイ）</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1516968355">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>166,631</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>1,688</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1516968355" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>586</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            第3回(ホラー生SP回)は次に投稿します。幕末生　2017年10月24日(火)放送分1,公式生告知：#0:002,寿都に帰ってた話：#4:523,10月＆11月プレゼントと複数当選の...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/01/26 21:02'>
+                2018-01-26 21:02
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1515936358" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=32585483" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="そっちじゃないと思う なお なので このザコ断末魔好き このころから10キルは 床オナ縛り この草をチョイスする 高熱出る前にの人がい 怒涛のなお笑う syoくんが許可出して 賢者タイムか? ぶつかるっ... ">そっちじゃないと思う なお なので このザコ断末魔好き このころから10キルは 床オナ縛り この草をチョイスする 高熱出る前にの人がい 怒涛のなお笑う syoくんが許可出して 賢者タイムか? ぶつかるっ... </span><span class="badge br length" title="58:10">58:10</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1515936358" title="[会員専用]幕末生　第2回（坂本ソロPUBG）"
+            >[会員専用]幕末生　第2回（坂本ソロPUBG）</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1515936358">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>218,585</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>2,701</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1515936358" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>884</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            幕末生　2017年10月7日(土)放送分1,???：#0:002,雑談：#0:063,「PUBG」実況プレイ：#3:014,雑談：#31:495,幕オン2　βテスター募集中：#33:066,10月プレゼント...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/01/14 22:23'>
+                2018-01-14 22:23
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1514891026" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=32522402" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="syo君、幸せになって ゲームが絡むと見方が そこかー ここ悲しい 最後にピエロになった がんばったな… 大便して 歯型つけプレイwww 道化師の顔のマークは 自分を加害者にしてる ">syo君、幸せになって ゲームが絡むと見方が そこかー ここ悲しい 最後にピエロになった がんばったな… 大便して 歯型つけプレイwww 道化師の顔のマークは 自分を加害者にしてる </span><span class="badge br length" title="55:47">55:47</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1514891026" title="[会員専用]幕末生　第1回"
+            >[会員専用]幕末生　第1回</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1514891026">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>206,125</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>5,553</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1514891026" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>1,044</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            人生で三本の指に入るカルマ話です。生きてて申し訳ありませんでした。幕末生　2017年9月30日(土)放送分1,雑談：#0:002,幕オン2　βテスター募集：#2:173,10月...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2018/01/02 20:01'>
+                2018-01-02 20:01
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                            
+<li class="item">
+
+    <div class="item_left">
+        <a href="https://www.nicovideo.jp/watch/1513677651" class="thumb_video thumb_150 wide"><img data-original="https://tn.smilevideo.jp/smile?i=32444822" class="lazyimage"><span class="purchase_type"><span class="inner ppv member_unlimited_access">月額見放題</span></span><span class="badge last_res" title="モテ モテ さみしんぼ なんだかんだ幕オン先 最高だったで うれしそう 小学生かwwww 大人になればそうなっ 睡眠大事よ いや?別に変じゃない タンパク質足りてない 多弁探偵 いやいいよむしろ良く ">モテ モテ さみしんぼ なんだかんだ幕オン先 最高だったで うれしそう 小学生かwwww 大人になればそうなっ 睡眠大事よ いや?別に変じゃない タンパク質足りてない 多弁探偵 いやいいよむしろ良く </span><span class="badge br length" title="59:33">59:33</span></a>    </div>
+
+    <div class="item_right">
+
+        <h6 class="title">
+            <a href="https://www.nicovideo.jp/watch/1513677651" title="[会員専用]幕末生　第0回"
+            >[会員専用]幕末生　第0回</a>
+        </h6>
+
+                <div class="actions">
+            <ul>
+                                    <li>
+                        <a class="action_button" href="https://www.nicovideo.jp/watch/1513677651">視聴ページへ</a>
+                    </li>
+                            </ul>
+        </div>
+        
+        <ul class="counts">
+
+            <li class="view ">
+                <label>再生</label>
+                <var>173,563</var>
+            </li>
+
+            <li class="comment ">
+                <label>コメント</label>
+                <var>3,031</var>
+            </li>
+
+            <li class="mylist ">
+                <label>マイリスト</label>
+                <a href="https://www.nicovideo.jp/openlist/1513677651" target="_blank" title="この動画を登録している公開マイリスト一覧"><var>776</var></a>
+            </li>
+
+        </ul>
+
+        <p class="description">
+            アーカイブにするか迷いました。幕末生　2017年9月23日(土)放送分1,雑談：#0:002,西郷さんがおかしくなった話：#2:323,9月プレゼントは全プレになります：#9:...
+        </p>
+
+        <p class="time">
+            <time>
+                <var title='2017/12/19 18:57'>
+                2017-12-19 18:57
+                </var>
+            </time>
+        </p>
+
+        
+    </div>
+<!--/li-->                                    </ul>
+            
+            
+                        <div style="padding:20px;">
+                            </div>
+            
+
+            <footer>
+                                                                                                
+
+
+
+
+
+
+<menu class="pager">
+    <ul>
+                    <li class="counts">
+                <span><var class="articles_total_number">197</var>件</span>
+                            <li class="prev">
+                <a href="?&amp;mode=&sort=f&order=d&type=&amp;page=3"
+                >&lt;</a>
+        
+                    <li class="pages">
+                <select onchange="location.href='?&amp;mode=&sort=f&order=d&type=&page='+jQuery(this).val();">
+                                                                    <option value="1" >1</option>
+                                                                    <option value="2" >2</option>
+                                                                    <option value="3" >3</option>
+                                                                    <option value="4" selected>4</option>
+                                                                    <option value="5" >5</option>
+                                                                    <option value="6" >6</option>
+                                                                    <option value="7" >7</option>
+                                                                    <option value="8" >8</option>
+                                                                    <option value="9" >9</option>
+                                                                    <option value="10" >10</option>
+                                    </select>
+        
+        <li class="next">
+            <a href="?&amp;mode=&sort=f&order=d&type=&amp;page=5"
+            >次へ　&gt;</a>
+    </ul>
+</menu>
+                            </footer>
+
+        </section>
+
+    
+</section>
+        </article>
+    </section>
+
+    <footer class="site">
+                    
+
+    
+                        
+                                    
+
+
+
+    
+    <div id="foot_cp_outer">
+        <div class="foot_inner">
+
+            <div id="cp_symbol">
+                
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_ch updated_in_1week">
+
+            <a href="/ch2613458"
+        title="幕末志士"
+        class="thumb_ch thumb_100 updated_in_1week">
+                <img data-original="https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2613458.jpg?1559911685" class="lazyimage">
+                                                </a>
+    
+    
+</span>            </div>
+
+            <div id="cp_profile">
+                <div class="inner_box">
+                    <h3 class="cp_chname">幕末志士</h3>
+                                            <p class="cp_viewname">提供：幕末志士</p>
+                                        <ul class="cp_footmenu"><li><a href="javascript:void(0);" onclick="window.open('/blogparts/ch2613458', 'ch_blogparts_popup', 'scrollbars=yes,resizable=yes,width=600,height=560');">貼り付けタグを取得する</a></li><li><a href="https://ch.nicovideo.jp/letter/ch2613458">ご意見・ご要望はこちら</a></li></ul>
+                </div>
+                                                            <div class="inner_box">
+                            <h3>タグ</h3>
+                            <ul class="cp_tags">
+                                                                    <li><a href="/search/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%A1%E3%83%B3%E3%83%88?mode=t">エンターテイメント</a></li>
+                                                                    <li><a href="/search/%E3%82%B2%E3%83%BC%E3%83%A0%E5%AE%9F%E6%B3%81?mode=t">ゲーム実況</a></li>
+                                                                    <li><a href="/search/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB?mode=t">ユーザーチャンネル</a></li>
+                                                                    <li><a href="/search/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E9%96%8B%E8%A8%AD?mode=t">ユーザーチャンネル開設</a></li>
+                                                                    <li><a href="/search/%E5%B9%95%E6%9C%AB%E5%BF%97%E5%A3%AB?mode=t">幕末志士</a></li>
+                                                            </ul>
+                        </div>
+                                                                <div class="inner_box">
+                            <h3>説明文</h3>
+                            <p>幕末志士のユーザーチャンネルです</p>
+                        </div>
+                                                            <div class="nanime_link">
+                        <script
+                            type="text/x-template"
+                            data-wktk-id="watch-portal-link"
+                            data-wktk-name="watch-portal-link"
+                            data-wktk-selector=".nanime_link"
+                        >
+                            
+                                <div class="inner_box">
+                                    <h3>ポータルサイトリンク</h3>
+                                    <ul>
+                                        <li><a href="{{items.[0].values.portalFirstLink.context}}?from=ch_article_2613458" target="_blank">{{items.[0].values.portalFirstText.context}}</a>
+                                        </li>
+                                        <li><a href="{{items.[0].values.portalSecondLink.context}}?from=ch_article_2613458" target="_blank">{{items.[0].values.portalSecondText.context}}</a>
+                                        </li>
+                                        <li><a href="{{items.[0].values.portalThirdLink.context}}?from=ch_article_2613458" target="_blank">{{items.[0].values.portalThirdText.context}}</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            
+                        </script>
+                    </div>
+                            </div>
+
+            <div id="join"></div>
+
+            <div id="cp_joinmenu">
+                <div class="join_leave">
+
+                                                                                <p class="btn join">
+                <a href="https://account.nicovideo.jp/login?site=channel&next_url=%2Fbakumatsu%2Fvideo%3Fmode%3D%26sort%3Df%26order%3Dd%26type%3D%26page%3D4%26admission_type%3Dchannel%26bylaw_type%3Dmodal&time=1560276533&hash_key=99c0cd47"
+                
+                onclick="ga('chfrontAll.send','event','フッター','チャンネルに入会',location.pathname);
+                NicoGoogleTagManagerDataLayer.push({'event':'nicoch_click_footer-join-button'})"
+                >
+                    チャンネルに入会
+                </a>
+            </p>
+                <p class="channel_price">
+        月額：<strong>&yen;540</strong>
+        <span class="tax_included">(税込)</span>
+    </p>
+                        
+                                        
+                </div>
+
+            </div>
+
+
+        </div>
+    </div>
+
+<div id="foot_common">
+    <div class="foot_inner">
+
+        <nav id="foot_nav_other" class="foot_common_nav">
+            <h3 class="nav_title">総合</h3>
+            <ul>
+                <li><a href="https://ch.nicovideo.jp/">ニコニコチャンネル トップ</a>
+                <li><a href="http://site.nicovideo.jp/ch/app/" target="_blank">アプリ niconico ch</a>
+                <li><a href="/channel_catalog">開設されたチャンネル</a>
+                <li><a href="/static/rule.html">利用規約</a>
+                <li><a href="/static/tokutei.html">特定商取引法の表示</a>
+                <li><a href="https://qa.nicovideo.jp/category/show/429?site_domain=default">ヘルプ</a>
+                <li><a href="http://dwango.co.jp/" target="_blank">運営会社</a>
+            </ul>
+        </nav>
+
+        <nav id="foot_nav_categories" class="foot_common_nav">
+            <h3 class="nav_title">カテゴリとポータル</h3>
+            <ul>
+                <li><a href="https://ch.nicovideo.jp/portal/event">イベント</a>
+                <li><a href="https://ch.nicovideo.jp/portal/blomaga">ブロマガ</a>
+                <li><a href="https://ch.nicovideo.jp/portal/anime">アニメ</a>
+                <li><a href="https://ch.nicovideo.jp/portal/movie">映画・ドラマ</a>
+                <li><a href="https://ch.nicovideo.jp/portal/media">社会・言論</a>
+                <li><a href="https://ch.nicovideo.jp/portal/tokusatsu">特撮</a>
+            </ul>
+            <ul>
+                <li><a href="https://ch.nicovideo.jp/portal/music">音楽</a>
+                <li><a href="https://ch.nicovideo.jp/portal/entertainment">エンタメ</a>
+                <li><a href="https://ch.nicovideo.jp/portal/sports">スポーツ</a>
+                <li><a href="https://ch.nicovideo.jp/portal/showbiz">芸能</a>
+                <li><a href="https://ch.nicovideo.jp/portal/life">生活</a>
+                <li><a href="https://ch.nicovideo.jp/portal/politics">政治</a>
+                <li><a href="https://ch.nicovideo.jp/portal/game">ゲーム</a>
+                <li><a href="https://ch.nicovideo.jp/portal/variety">バラエティ</a>
+                <li><a href="https://ch.nicovideo.jp/portal/gravure">グラビア</a>
+            </ul>
+        </nav>
+
+        <nav id="foot_nav_account" class="foot_common_nav">
+            <h3 class="nav_title">アカウント</h3>
+            <ul>
+                            <li><a href="https://account.nicovideo.jp/register">アカウント新規登録</a>
+                <li><a href="https://account.nicovideo.jp/login?next_url=%2Fbakumatsu%2Fvideo%3F%26mode%3D%26sort%3Df%26order%3Dd%26type%3D%26page%3D4&site=channel&time=1560276533&hash_key=ecd28da8">ログインページ</a>
+                        </ul>
+        </nav>
+
+        <nav id="foot_nav_cpsupport" class="foot_common_nav">
+            <h3 class="nav_title">開設／お問い合わせ</h3>
+            <ul>
+                <li><a href="/start" class="wbr"><span>チャンネルを</span><span>開設する</span></a>
+                <li><a href="/blomaga" class="wbr"><span>ブログを</span><span>開設する</span></a>
+                <li><a href="https://secure.ch.nicovideo.jp/application/mediaplan/">
+                    ブログを開設する<small>(大手メディアプラン)</small>
+                </a>
+                <li><a href="https://qa.nicovideo.jp/faq/show/5008?site_domain=default" class="wbr">
+                    <span>niconicoへのご意見・ご要望</span>
+                </a>
+                <li><a href="http://site.nicovideo.jp/sales_ads" class="wbr"><span>広告出稿に</span><span>関する</span><span>お問い合わせ</span></a>
+            </ul>
+        </nav>
+
+        
+        <small id="foot_copyright">
+            <p><a href="http://dwango.co.jp/" target="_blank">&copy; DWANGO Co., Ltd.</a></p>
+        </small>
+
+    </div>
+</div>        
+                
+        
+    </footer>
+
+            
+                <div class="nicoch_modal" id="timeshift_modal" style="display:none;">
+    <div class="nicoch_modal_overlay" onclick="TimeShift.registHide()"></div>
+    <div class="nicoch_modal_window" id="watching_reservation_regist">
+        <p class="modal_close">
+            <a href="javascript:TimeShift.registHide()">&times;</a>
+        </p>
+        <div class="modal_body load_spinner" id="watching_reservation_info"></div>
+    </div>
+</div>    
+        <div class="nicoch_notifybar" style="display:none" title="クリックで閉じる">
+    <h6 class="title"></h6>
+    <div class="body"></div>
+    <span class="close">&times;</span>
+</div>
+        <div id="loginbox_mask" style="display: none;"></div>
+<section id="loginbox_balloon" style="display: none;">
+    <h1></h1>
+    <dl class="login">
+        <dt><a class="button"></a></dt>
+        <dd></dd>
+    </dl>
+    <dl class="register">
+        <dt><a class="button"></a></dt>
+        <dd></dd>
+    </dl>
+</section>
+
+
+<script>
+var MSG_loginbox = {
+    title : "niconicoアカウントにログイン",
+    login : {
+        label : "ログイン",
+        url : "https://account.nicovideo.jp/login?next_url=%2Fbakumatsu%2Fvideo%3F%26mode%3D%26sort%3Df%26order%3Dd%26type%3D%26page%3D4&site=channel&time=1560276533&hash_key=ecd28da8",
+        description : "アカウントをお持ちの方はログイン<br>してください。"
+    },
+    register : {
+        label : "アカウント登録",
+        url : "",
+        description : "まだアカウントをお持ちでない方でも<br>無料で作成できます。"
+    }
+};
+Ch.loginbox.init();
+</script>
+
+        
+<script src="https://platform.twitter.com/widgets.js" defer async></script>
+<script src="https://b.st-hatena.com/js/bookmark_button.js" defer async></script>
+<div id="fb-root"></div>
+
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/timeshift.js?1559884139"></script>
+
+
+<script>
+if (parent != window) {
+    var allowed = false;
+
+    document.addEventListener('click', function(e) {
+        if (!allowed) {
+            e.stopPropagation();
+            e.preventDefault();
+        }
+    }, true);
+
+    window.addEventListener('message', function(e) {
+        if (e.origin == 'https://ch.nicovideo.jp/') {
+            allowed = true;
+        }
+    }, true);
+}
+</script>
+
+<script>
+var ptSampleRate = 0;
+</script>
+
+
+<script type="text/javascript">
+window._pt_lt = new Date().getTime();
+window._pt_sp_2 = [];
+_pt_sp_2.push('setAccount,4ef1ca6b');
+_pt_sp_2.push('setSampleRate,' + ptSampleRate);
+var _protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+(function() {
+    var atag = document.createElement('script');
+    atag.type = 'text/javascript';
+    atag.async = true;
+    atag.src = _protocol + 'js.ptengine.jp/pta.js';
+    var stag = document.createElement('script');
+    stag.type = 'text/javascript';
+    stag.async = true;
+    stag.src = _protocol + 'js.ptengine.jp/pts.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(atag, s);
+    s.parentNode.insertBefore(stag, s);
+})();
+</script>
+
+
+
+</body>
+</html>
